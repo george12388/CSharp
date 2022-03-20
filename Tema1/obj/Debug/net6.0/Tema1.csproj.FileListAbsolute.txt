@@ -1,0 +1,15 @@
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.csproj.AssemblyReference.cache
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.AssemblyInfoInputs.cache
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.AssemblyInfo.cs
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.csproj.CoreCompileInputs.cache
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\Tema1.exe
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\Tema1.deps.json
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\Tema1.runtimeconfig.json
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\Tema1.dll
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\ref\Tema1.dll
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\bin\Debug\net6.0\Tema1.pdb
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.dll
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\ref\Tema1.dll
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.pdb
+D:\Cursuri Talenting\Teme C#\Tema1\Tema1\obj\Debug\net6.0\Tema1.genruntimeconfig.cache
